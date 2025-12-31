@@ -115,4 +115,3 @@ REST_FRAMEWORK = {
         "rest_framework.pagination.PageNumberPagination",
     "PAGE_SIZE": 10,
 }
-# коментар для останнього рядка, щоб запушити
